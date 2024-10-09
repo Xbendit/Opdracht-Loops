@@ -217,7 +217,7 @@ for (let i = 0; i < students.length; i++) {
     console.log(students[i])
 }
 
-/*const postbuurt = [
+const postbuurt = [
     3513 : 'Pijlsweerd'
     3514 : Vogelenbuurt
     3512 : Binnenstad
@@ -225,7 +225,8 @@ for (let i = 0; i < students.length; i++) {
     3572 : Wittevrouwen
     3581 : Oudwijk
     3583 : Schildersbuurt
-]*/
+]
+
 // Verwachte uitkomsten:
 // [
 //     { name: 'Mariska', city: 'Utrecht', zipCode: '3513', neighborhood: 'Pijlsweerd' },
