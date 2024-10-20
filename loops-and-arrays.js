@@ -18,7 +18,7 @@ for (let i = 0; i < names.length; i++) {
 // ==========================================
 // Opdracht 2
 // Schrijf een script dat ieder EVEN getal in onderstaande array met 2 vermenigvuldigd, en ieder ONEVEN getal met 3
-// Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 getallen zou bevatten!
+// Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 getallen zou bevatten!hoi
 // ==========================================
 
 const numbers = [2, 4, 5, 29, 38];
