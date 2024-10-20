@@ -63,7 +63,7 @@ for (let i = 0; i < 10; i++) {
 // Opdracht 4 (BONUS): schrijf een for-loop die van 0 tot 100 loopt en de getallen print.
 // Echter, voor veelvouden van 3 print je "Fizz" in plaats van het nummer, en voor veelvouden van 5 print je "Buzz".
 // Voor getallen die zowel een veelvoud van 3 als van 5 zijn, print je "FizzBuzz"
-// Verwachte uitkomsten:
+// Verwachte uitkomsten: hoi
 // 1
 // 2
 // Fizz
